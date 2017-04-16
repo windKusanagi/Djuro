@@ -1,0 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?> 
+<resources>
+	<string name="app_name">Diario Secreto</string>
+	<string name="navigation_drawer_open">Abrir cajón de navegación</string>
+	<string name="navigation_drawer_close">Cerca de navegación cajón</string>
+	<string name="action_settings">Configuración</string>
+</resources>

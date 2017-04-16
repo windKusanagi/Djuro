@@ -1,0 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?> 
+<resources>
+	<string name="app_name">Secret Journal</string>
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+	<string name="navigation_drawer_close">Schließen Sie navigation Schublade</string>
+	<string name="action_settings">Einstellungen</string>
+</resources>

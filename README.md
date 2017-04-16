@@ -1,2 +1,1 @@
-# Djuro
-A command line translation toolkit using Java
+# Djuro-Language-Translation
