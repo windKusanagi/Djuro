@@ -1,13 +1,16 @@
 Djuro Language Translation
 ======
-Djuro is a simple script that would convert the language resource file of a project to other languages. This script file is limited to Android and futher support will added in the upcomeing versions.
+Djuro is a simple script that would convert the language resource file of a project to other languages. 
+This script file is limited to Android and futher support will added in the upcomeing versions.
+
+
 
 The usage of the jar file is as follows:
 
 Download the Jar file <a href="https://github.com/windKusanagi/Djuro/blob/master/djuro.jar">Script File</a>
 
 ```
-$ ./script parameter1 parameter2 parameter3 parameter4 
+$ ./djuro.jar parameter1 parameter2 parameter3 parameter4 
  Output File
  
  parameter 1 - path of the String Resource File
@@ -17,13 +20,14 @@ $ ./script parameter1 parameter2 parameter3 parameter4
 $ 
 ```
 ## Version 
-* Version X.Y
+* Version 1.0
 
-## Contact
-#### Developer/Company
-* Homepage: 
-* e-mail: 
-* Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
-* other communication/social media
+## Authors
+* **Xiang Zhang** - [Xiang Zhang](https://www.facebook.com/profile.php?id=100010986094107)
+* **Ramkumar Velmurugan** - [Ramkumar Velmurugan](http://www.spkdroid.com/CV)
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/username/sw-name&title=sw-name&language=&tags=github&category=software) 
+
+## License
+
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/windKusanagi/Djuro/blob/master/LICENSE) file for details
+
